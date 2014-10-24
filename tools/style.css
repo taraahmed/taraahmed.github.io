@@ -101,6 +101,21 @@ h2 strong.sep-two{
 	font-size: 18px;
 }
 
+#middle1{
+	width: 100%;
+	background: #e63b4d;
+	padding: 10px 0;
+	margin: -10px 0 10px 0;
+}
+
+#middle1 p{
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 12px;
+	color: #ffffff;
+	line-height: 20px;
+	padding: 0 20%;
+}
+
 
 #footer{
 	width: 100%;
@@ -114,7 +129,7 @@ h2 strong.sep-two{
 	padding: 0 30%;
 }
 
-
+/**
 ul.social
 {
 width: 242px;
@@ -171,7 +186,30 @@ width: 62px;
 ul.social li.youtube:hover{
 background-position: -180px -62px;
 }
+**/
 
+a:link{
+    color: #e63b4d;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited{
+    color: #e63b4d;
+    text-decoration: none;
+}
+
+/* mouse over link */
+a:hover{
+    color: #e63b4d;
+    text-decoration: none;
+}
+
+/* selected link */
+a:active{
+    color: #e63b4d;
+    text-decoration: none;
+}
 
 @media screen and (max-width: 568px){
 	#header{
@@ -218,6 +256,19 @@ background-position: -180px -62px;
 	
 	#middle p span{
 		color:#e63b4d;
+	}
+
+	#middle1{
+		margin: -20px 0 20px 0;
+		width: 90%;
+		padding: 5%;
+	}
+	
+	#middle1 p{
+		font-size: 12px;
+		color: #ffffff;
+		line-height: 20px;
+		padding: 0;
 	}
 
 	
