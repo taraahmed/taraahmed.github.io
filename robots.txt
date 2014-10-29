@@ -1,5 +1,0 @@
-User-Agent: *
-Disallow: 
-Disallow: /tools
-Disallow: /CNAME
-Disallow: /sitemape.xml
