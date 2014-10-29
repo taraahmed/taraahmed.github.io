@@ -1,5 +1,5 @@
 # Site settings
-title: Tara Ahmed
+title: Tara Ahmed - Author
 email: hello@taraahmed.me
 description: "Tara Ahmed's official author website. Currently featuring her debut book release, The Marriage Contract."
 keywords: "Tara, Ahmed, The Marriage Contract, Dorothy Web, Love Triangle, New York, Author, Amazon, Kindle, Publisher, Literary, Book, Novel, Sunday Reads"
@@ -11,5 +11,5 @@ facebook_username: authortaraahmed
 # Build settings
 markdown: kramdown
 permalink: pretty
-paginate: 5
+paginate: 3
 exclude: ["node_modules"]
