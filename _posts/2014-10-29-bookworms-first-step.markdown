@@ -7,7 +7,7 @@ author:     "Tara Ahmed"
 header-img: "img/post-bg-01.jpg"
 ---
 
-<p>Gorwing up as an awkward, nerdy kid, I'd attached myself to the world of books, a place where I felt like I belonged. In the pages of Judy Blume, Meg Caboot, and Jerry Spinelli's novels (to name a few), I felt a sense of completion that I didn't quite feel elsewhere.</p>
+<p>Gorwing up as an awkward, nerdy kid, I'd attached myself to the world of books, a place where I felt like I belonged. In the pages of Judy Blume, Meg Cabbot, and Jerry Spinelli's novels (to name a few), I felt a sense of completion that I didn't quite feel elsewhere.</p>
 
 <p>There was a time when I was 12, reading a passage from one of my favorite books and thinking, "wow...I could never write like that".</p>
 
