@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+Disallow: /_includes
+Disallow: /CNAME
+Disallow: /_layouts
+Disallow: /css
+Disallow: /font
+Disallow: /js
+Disallow: /less
+Disallow: /mail
+Disallow: /sitemap.xml
