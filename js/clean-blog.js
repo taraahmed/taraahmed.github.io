@@ -31,7 +31,7 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "./.http://forms.brace.io/hello@taraahmed.me",
+                url: "http://forms.brace.io/hello@taraahmed.me",
                 type: "POST",
                 data: {
                     name: name,
