@@ -2,7 +2,7 @@
 layout:     post
 title:      "Facing Rejection"
 subtitle:   "A writer's ultimate fear"
-date:       2014-11-01 12:00:00
+date:       2014-11-01 11:20:00
 author:     "Tara Ahmed"
 header-img: "img/post-bg-02.jpg"
 ---
