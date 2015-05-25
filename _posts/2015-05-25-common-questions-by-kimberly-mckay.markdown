@@ -39,4 +39,4 @@ header-img: "img/post-bg-01.jpg"
 
 <p><i>(be warned - not every company is on this list, but they do a good job of listing most pitfalls.)</i></p>
 
-<p>I hope this has given you some insight and would ask that if this has helped - please give me some feedback at my blog: <a href="www.wornoutwoman.blogspot.com" target="_top">Worn Out Women</a> or <a href="mailto:kimberlymckayauthor@gmail.com" target="_top">email me</a></p>
+<p>I hope this has given you some insight and would ask that if this has helped - please give me some feedback at my blog: <a href="http://wornoutwoman.blogspot.com" target="_blank">Worn Out Women</a> or <a href="mailto:kimberlymckayauthor@gmail.com" target="_blank">email me</a>.</p>
