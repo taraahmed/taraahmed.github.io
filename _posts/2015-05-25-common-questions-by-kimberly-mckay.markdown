@@ -35,7 +35,7 @@ header-img: "img/post-bg-04.jpg"
 
 <p>A: The answer is NEVER NEVER NEVER!  I didn't even insert commas in-between those words as I didn't hesitate and neither should you.  Do not hesitate to run from anyone, who asks you to offer up investments in your writing for 'marketing reasons' or 'administration fees'.  No matter what the reason, no one should charge you for anything.</p>
 
-<p>These people are called vanity presses.  Companies that charge you are making their money off YOU.  You'll never re-coup your investment back.  To avoid scams, check this site often: <a href="http://pred-ed.com">Preditors &amp; Editors</a></p>
+<p>These people are called vanity presses.  Companies that charge you are making their money off YOU.  You'll never re-coup your investment back.  To avoid scams, check this site often: <a href="http://pred-ed.com" target="_blank">Preditors &amp; Editors</a></p>
 
 <p><i>(be warned - not every company is on this list, but they do a good job of listing most pitfalls.)</i></p>
 
