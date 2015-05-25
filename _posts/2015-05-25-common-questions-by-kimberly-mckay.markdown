@@ -4,7 +4,7 @@ title:      "Common Questions"
 subtitle:   "with answers"
 date:       2014-10-29 18:00:00
 author:     "Kimberly McKay"
-header-img: "img/post-bg-01.jpg"
+header-img: "img/post-bg-04.jpg"
 ---
 
 <p>From time to time, I will meet with potential writers, who ask a handful of questions in their quest to get published.  I love talking with other creative types, who have the same goal in mind.  I leave recharged and confirmed, while the hopeful writers I mentor are inspired to move forward.</p>
