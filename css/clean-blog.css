@@ -395,11 +395,3 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #0085a1;
 }
-
-#share-buttons{
-width: 35px;
-padding: 5px;
-border: 0;
-box-shadow: 0;
-display: inline;
-}
